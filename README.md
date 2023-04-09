@@ -6,7 +6,7 @@
 
 <h3 align="center">This is the place where you can review my journey with Computer networks using Cisco Packet Tracer.</h3>
 
-<p align="center"> <a target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.png" alt="git" width="50" height="40"/> </a> </p>
+<p align="center"> <a target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.png" alt="git" width="50" height="30"/> </a> </p>
 
 
 
